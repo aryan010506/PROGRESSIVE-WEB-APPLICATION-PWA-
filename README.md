@@ -28,4 +28,4 @@ This front-end is built with HTML and CSS, requiring no backend, making it perfe
 
 #output:
 
-
+![Image](https://github.com/user-attachments/assets/7bbecb37-047c-4cb4-85d5-f2c1d398b983)
